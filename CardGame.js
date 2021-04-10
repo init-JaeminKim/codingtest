@@ -4,7 +4,7 @@ const array = [
   [2, 2, 2],
 ];
 
-function solution(array) {
+const solution = (array) => {
   let temp = [];
   let result = 0;
 
@@ -17,4 +17,4 @@ function solution(array) {
   console.log(result);
 }
 
-solution(array);
+solution(array)
