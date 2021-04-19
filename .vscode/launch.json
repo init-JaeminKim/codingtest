@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/.vscode/GameDev.js"
+            "program": "${workspaceFolder}/.vscode/test.js"
         }
     ]
 }
